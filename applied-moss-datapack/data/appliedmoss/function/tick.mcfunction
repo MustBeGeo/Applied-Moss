@@ -1,0 +1,1 @@
+function appliedmoss:moss/detect_right_click

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:moss_block"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:carrot_on_a_stick",
+    "components": {
+      "minecraft:custom_data": {
+        "item": "moss"
+      },
+      "minecraft:item_name": {
+        "text": "Moss"
+      },
+      "minecraft:item_model": "minecraft:moss",
+      "!minecraft:max_damage": {},
+      "minecraft:max_stack_size": 64
+    },
+    "count": 5
+  }
+}

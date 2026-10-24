@@ -1,0 +1,2 @@
+execute as @a[scores={appliedmoss.rc_coas=1..}] if items entity @s weapon.mainhand carrot_on_a_stick[custom_data~{item:"moss"}] run function appliedmoss:moss/on_right_click
+scoreboard players reset @a[scores={appliedmoss.rc_coas=1..}] appliedmoss.rc_coas

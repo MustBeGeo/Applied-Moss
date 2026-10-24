@@ -1,0 +1,1 @@
+function appliedmoss:init_scores

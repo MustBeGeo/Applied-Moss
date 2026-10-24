@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "id": "carrot_on_a_stick",
+      "components": {
+        "item_model": "minecraft:moss"
+      }
+    },
+    "title": "It's Growing On Me",
+    "description": "Use moss on a cobblestone block"
+  },
+  "criteria": {
+    "placed_moss": {
+      "trigger": "impossible"
+    }
+  }
+}
